@@ -1,0 +1,34 @@
+# ============================================================
+#  On NE publie PAS le code source ni les secrets sur GitHub.
+#  L'exe est distribué uniquement via l'onglet "Releases".
+# ============================================================
+
+# Code source Python (contient l'URL du webhook)
+*.py
+
+# Artefacts de compilation PyInstaller
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+
+# Backend serveur (à coller dans Apps Script, pas sur GitHub)
+Code.gs
+
+# Script de build et visuels internes (inutiles dans le repo public)
+build.ps1
+*.png
+*.ico
+
+# Fichiers Google / notes internes
+GUIDE_DEPLOIEMENT.md
+
+# Divers
+*.log
+.DS_Store
+Thumbs.db
+
+# On garde ces fichiers dans le repo :
+!README.md
+!.gitignore
