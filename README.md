@@ -1,6 +1,8 @@
 # MECEE
 
-Application de calcul MECEE (Windows).
+Simulateur d'explosion confinée pour enceintes disposant d'évents de décharge
+(méthode MECEE) — calcul des surpressions, dimensionnement des évents et
+génération automatique de rapports Word.
 
 ## Téléchargement
 
@@ -12,10 +14,29 @@ Application de calcul MECEE (Windows).
    fournis par l'administrateur.
 
 > ⚠️ Une connexion Internet est nécessaire au démarrage (vérification du compte).
+> Le mot de passe peut être changé directement depuis l'écran de connexion
+> (bouton **« Changer le mot de passe »**).
 
-## Support
+## Accès
 
-Pour obtenir un accès ou en cas de problème de connexion, contacte l'administrateur.
+L'application est réservée aux utilisateurs autorisés. Chaque compte est lié
+à un nombre limité d'appareils ; l'accès peut être suspendu à tout moment par
+l'administrateur.
+
+Pour obtenir un compte ou en cas de problème de connexion, contacte
+l'administrateur (coordonnées ci-dessous).
+
+## Licence
+
+Logiciel propriétaire — voir [`LICENSE`](LICENSE). Toute copie,
+redistribution ou rétro-ingénierie sans autorisation écrite est interdite.
+
+## Contact
+
+Développé et suivi par **Killian Sincé** (Bureau Veritas).
+
+📞 06 65 20 76 80
+💼 LinkedIn : *(lien à ajouter — communique l'URL de ton profil pour un lien cliquable)*
 
 ---
-© MECEE — Distribution réservée aux utilisateurs autorisés.
+© 2026 Bureau Veritas — Tous droits réservés. Distribution réservée aux utilisateurs autorisés.

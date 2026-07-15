@@ -13,6 +13,10 @@ dist/
 __pycache__/
 *.pyc
 
+# Environnement isolé de build
+.venv-build/
+.venv/
+
 # Backend serveur (à coller dans Apps Script, pas sur GitHub)
 Code.gs
 
