@@ -36,7 +36,7 @@ redistribution ou rétro-ingénierie sans autorisation écrite est interdite.
 Développé et suivi par **Killian Sincé** (Bureau Veritas).
 
 📞 06 65 20 76 80
-💼 LinkedIn : *(lien à ajouter — communique l'URL de ton profil pour un lien cliquable)*
+💼 LinkedIn : [linkedin.com/in/killian-since-2588b9286](https://fr.linkedin.com/in/killian-since-2588b9286)
 
 ---
 © 2026 Bureau Veritas — Tous droits réservés. Distribution réservée aux utilisateurs autorisés.
